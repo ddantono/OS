@@ -1,0 +1,19 @@
+/home/ddantono/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+  File: source.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 410794      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1211/ddantono)   Gid: ( 1213/ddantono)
+Access: 2024-12-19 13:08:50.752976273 +0200
+Modify: 2024-12-19 13:08:50.752976273 +0200
+Change: 2024-12-19 13:08:50.752976273 +0200
+ Birth: -
+rm: cannot remove 'oldname.txt': No such file or directory
+rm: cannot remove '/home/ddantono/Lab05/newfolder': Is a directory
+cat: /home/ddantono/Lab05/newfolder: No such file or directory
